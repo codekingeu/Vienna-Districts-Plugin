@@ -12,7 +12,7 @@ This is a light weight Vienna Districts Plugin. You can easily add it to your ap
 $('#map').linkDistricts(1, "http://www.google.com");</code></pre>
 
 <h4>Change the Map Colours:</h4>
-<pre><code>
+<pre><code>// blue - static map colour, pink - map on hover color, yellow - static text colour, black - text on hover colour
 $('#map').changeDistrictColors('blue', 'pink', 'yellow', 'black');</code></pre>
 
 <h4>Licence</h4>
