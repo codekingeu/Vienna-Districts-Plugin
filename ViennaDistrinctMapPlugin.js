@@ -32,13 +32,13 @@
         $("#VIEDCITYPLUGIN path").click(function () {
             var target = $(this).attr('id');
             var dist = $("." + target).attr('id');
-            if(distrinctLinksMap[dist] != 'undefined'){
+            if(distrinctLinksMap[dist] != undefined){
             	window.location = distrinctLinksMap[dist];
             }
         });
         $("#VIEDISTMAPPLUGIN text").click(function () {
             var dist = $(this).attr('id');
-            if(distrinctLinksMap[dist] != 'undefined'){
+            if(distrinctLinksMap[dist] != undefined){
             	window.location = distrinctLinksMap[dist];
             }
         });
