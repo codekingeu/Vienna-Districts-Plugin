@@ -1,4 +1,4 @@
-<h4>Vienna Districts Map Plugin</h4>
+<h3>Vienna Districts Map Plugin</h3>
 
 This is a light weight Vienna Districts Plugin. You can easily add it to your app or web site. The Plugin requries a jQuery Library.<br/>
 
