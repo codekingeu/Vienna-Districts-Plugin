@@ -1,7 +1,6 @@
 This is a light weight Vienna Districts Plugin. You can easily add it to your app or web site. The Plugin requries a jQuery Library.<br/><br/>
 
-<h4>How to add the map:</h4><br/>
-
+<h4>How to add the map:</h4>
 ...<br/>
 $('#test').viennaDistrictsMap();<br/>
 ...<br/>
